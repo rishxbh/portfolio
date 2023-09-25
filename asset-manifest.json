@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.55f3865d.css",
-    "main.js": "/static/js/main.f9ae6eab.js",
-    "static/media/myimage.png": "/static/media/myimage.541ac484d6f2faefacc7.png",
-    "static/media/mail.png": "/static/media/mail.8bfe2472555cbf4d0488.png",
-    "static/media/car.png": "/static/media/car.0caedfc0953ec8769ec5.png",
-    "static/media/library.jpg": "/static/media/library.13d41b114af4945addb5.jpg",
-    "static/media/ecom.jpg": "/static/media/ecom.315be8db7b0d76f1c486.jpg",
-    "static/media/linkedin.png": "/static/media/linkedin.8465ba3190f504692a2c.png",
-    "static/media/java.png": "/static/media/java.39770df150b98ed9e2ed.png",
-    "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
-    "index.html": "/index.html",
-    "main.55f3865d.css.map": "/static/css/main.55f3865d.css.map",
-    "main.f9ae6eab.js.map": "/static/js/main.f9ae6eab.js.map"
+    "main.css": "/github.io/portfolio/static/css/main.55f3865d.css",
+    "main.js": "/github.io/portfolio/static/js/main.594f0d3d.js",
+    "static/media/myimage.png": "/github.io/portfolio/static/media/myimage.541ac484d6f2faefacc7.png",
+    "static/media/mail.png": "/github.io/portfolio/static/media/mail.8bfe2472555cbf4d0488.png",
+    "static/media/car.png": "/github.io/portfolio/static/media/car.0caedfc0953ec8769ec5.png",
+    "static/media/library.jpg": "/github.io/portfolio/static/media/library.13d41b114af4945addb5.jpg",
+    "static/media/ecom.jpg": "/github.io/portfolio/static/media/ecom.315be8db7b0d76f1c486.jpg",
+    "static/media/linkedin.png": "/github.io/portfolio/static/media/linkedin.8465ba3190f504692a2c.png",
+    "static/media/java.png": "/github.io/portfolio/static/media/java.39770df150b98ed9e2ed.png",
+    "static/media/instagram.png": "/github.io/portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/github.io/portfolio/index.html",
+    "main.55f3865d.css.map": "/github.io/portfolio/static/css/main.55f3865d.css.map",
+    "main.594f0d3d.js.map": "/github.io/portfolio/static/js/main.594f0d3d.js.map"
   },
   "entrypoints": [
     "static/css/main.55f3865d.css",
-    "static/js/main.f9ae6eab.js"
+    "static/js/main.594f0d3d.js"
   ]
 }
