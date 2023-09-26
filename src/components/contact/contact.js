@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <section id="contact">
         <h1 className="title">Contact Me</h1>
-        <span className="desc">Please fill out the form to discuss any work oppotunity</span>
+        <span className="desc">Please fill out the form to discuss any work opportunity</span>
         <form action="" className="form">
             <input type="text" placeholder='Your Name' className='name' />
             <input type="email" placeholder='Your Email' className='mail' />
