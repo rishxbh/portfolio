@@ -11,18 +11,13 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_6z7xqg8', 'template_dc3b3e4', form.current, '2s2GwhSny0C9cB_N-nXkL')
-      .then((result) => {
-          console.log(result.text);
-      }, (error) => {
-          console.log(error.text);
-      });
+    /* hidden */
   };
   return (
     <section id="contact">
         <h1 className="title">Contact Me</h1>
         <span className="desc">Please fill out the form to discuss any work opportunity</span>
-        <form action="" className="form" ref={form} onSubmit={sendEmail}>
+        <form className="form" ref={form} onSubmit={sendEmail}>
             <input type="text" placeholder='Your Name' className='name' name='from_name'/>
             <input type="email" placeholder='Your Email' className='mail' name='from_email'/>
             <textarea placeholder='Message' rows="5" className='msg' name='message'></textarea>
