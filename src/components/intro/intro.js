@@ -14,7 +14,7 @@ const Intro = () => {
                     and staying abreast of the latest technologies and best practices. <br /> I am
                     having an entry-level experience in Software Development with good
                     problem solving ability. <br /> Eager to learn and adapt upcoming opportunities.</p>
-                <Link><button className="btn"><img src={btnImage} alt="Hire" className='btnImg' />Hire me</button></Link>
+                <Link activeClass='active' to='contact' spy={true} smooth={true} offset={-80} duration={500}><button className="btn"><img src={btnImage} alt="Hire" className='btnImg' />Hire me</button></Link>
             </div>
             <img src={bg} alt="myimage" className="bg" />
         </section>

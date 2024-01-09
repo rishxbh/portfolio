@@ -44,6 +44,7 @@
     padding: 0.75rem 3.5rem;
     border-radius: 0.25rem;
     margin: 2rem 0;
+    color: black;
 }
 .links {
     display: flex;
@@ -58,5 +59,39 @@
 @media screen and (max-width:500px){
     #contact {
         width: 35rem;
+    }
+}
+.message {
+    width: 100%;
+    position: relative;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: center;
+}
+.message .success {
+    font-size: 15px;
+    font-weight: lighter;
+    color: green;
+    position: absolute;
+    animation: buttons 0.1s linear;
+    display: none;
+}
+.message .danger {
+    font-size: 15px;
+    font-weight: lighter;
+    color: red;
+    position: absolute;
+    animation: buttons 0.1s linear;
+    display: none;
+}
+@keyframes buttons {
+    0%{
+        transform: scale(0.1);
+    }
+    50% {
+        transform: scale(0.5);
+    }
+    100% {
+        transform: scale(1);
     }
 }
