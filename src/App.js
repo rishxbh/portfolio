@@ -4,6 +4,7 @@ import Footer from "./components/footer/footer";
 import Intro from "./components/intro/intro";
 import Skills from "./components/skill/skills";
 import Works from "./components/works/works";
+import './App.css'
 function App() {
   return (
     <div className="App">

@@ -7,10 +7,10 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    position: sticky;
+    /* position: sticky; */
     top: 0;
     z-index: 3;
-    background: transparent;
+    background: rgb(30, 30, 30);
     backdrop-filter: blur(2px);
 }
 .logo {
